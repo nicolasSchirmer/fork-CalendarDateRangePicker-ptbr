@@ -14,6 +14,12 @@ build.gradle (module)
 implementation 'nicolasmschirmer:awesome-calendar:1.0.0'
 ~~~~
 
+````xml
+<com.nicolasschirmer.calendar.customviews.CustomTextView
+````
+
+
+
 ---------------------------------------
 
 
