@@ -1,5 +1,8 @@
+[ ![Download](null/packages/nicolasmschirmer/maven/awesome-calendar/images/download.svg?version=1.0.0) ](https://bintray.com/nicolasmschirmer/maven/awesome-calendar/1.0.0/link)
+
 This version has forced pt-br language and is has a little bit more tinny layout as well
 
+---------------------------------------
 
 
 # ORIGINAL
