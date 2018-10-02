@@ -1,5 +1,26 @@
+[ ![Download](https://api.bintray.com/packages/nicolasmschirmer/maven/awesome-calendar/images/download.svg?version=1.0.0) ](https://bintray.com/nicolasmschirmer/maven/awesome-calendar/_latestVersion)
+
 This version has forced pt-br language and is has a little bit more tinny layout as well
 
+build.gradle (application)
+~~~~
+maven {
+            url  "https://nicolasmschirmer.bintray.com/maven"
+        }
+~~~~
+
+build.gradle (module)
+~~~~
+implementation 'nicolasmschirmer:awesome-calendar:1.0.0'
+~~~~
+
+````xml
+<com.nicolasschirmer.calendar.customviews.CustomTextView
+````
+
+
+
+---------------------------------------
 
 
 # ORIGINAL
