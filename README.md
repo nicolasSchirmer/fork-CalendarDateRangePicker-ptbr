@@ -4,18 +4,16 @@ This version has forced pt-br language and is has a little bit more tinny layout
 
 build.gradle (application)
 ~~~~
-maven {
-            url  "https://nicolasmschirmer.bintray.com/maven"
-        }
+maven { url  "https://nicolasmschirmer.bintray.com/maven" }
 ~~~~
 
 build.gradle (module)
 ~~~~
-implementation 'nicolasmschirmer:awesome-calendar:1.0.0'
+implementation 'nicolasmschirmer:awesome-calendar:1.0.2'
 ~~~~
 
 ````xml
-<com.nicolasschirmer.calendar.customviews.CustomTextView
+<com.nicolasschirmer.calendar.customviews.DateRangeCalendarView
 ````
 
 
