@@ -4,7 +4,7 @@
 
     <View style="@style/StripRange" />
 
-    <com.archit.calendardaterangepicker.customviews.CustomTextView
+    <com.nicolasschirmer.calendar.customviews.CustomTextView
         android:id="@+id/dayOfMonthText"
         style="@style/DayOfMonthStyle"
         android:text="0" />
