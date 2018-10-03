@@ -3,6 +3,8 @@ package com.nicolasschirmer.calendar.models;
 import android.view.View;
 import android.widget.RelativeLayout;
 
+import com.nicolasschirmer.calendar.customviews.CustomTextView;
+
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Locale;
