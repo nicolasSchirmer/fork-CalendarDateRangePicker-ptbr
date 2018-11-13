@@ -9,7 +9,6 @@ maven { url  "https://nicolasmschirmer.bintray.com/maven" }
 
 build.gradle (module)
 ~~~~
-implementation 'nicolasmschirmer:awesome-calendar:1.0.3'    // API 28
 implementation 'nicolasmschirmer:awesome-calendar:1.0.4'    // API 26
 ~~~~
 
