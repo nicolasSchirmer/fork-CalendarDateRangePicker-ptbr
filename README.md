@@ -2,10 +2,7 @@
 
 This version has forced pt-br language and is has a little bit more tinny layout as well
 
-build.gradle (application)
-~~~~
-maven { url  "https://nicolasmschirmer.bintray.com/maven" }
-~~~~
+The project is allocated on jCenter
 
 build.gradle (module)
 ~~~~
