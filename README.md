@@ -1,3 +1,6 @@
+# Disclaimer: This is not an official repository. It's only a forced Portuguese language fork from [this repository](https://github.com/ArchitShah248/CalendarDateRangePicker).
+
+
 [ ![Download](https://api.bintray.com/packages/nicolasmschirmer/maven/awesome-calendar/images/download.svg)](https://bintray.com/nicolasmschirmer/maven/awesome-calendar/_latestVersion)
 
 This version has forced pt-br language and is has a little bit more tinny layout as well
@@ -20,7 +23,7 @@ implementation 'nicolasmschirmer:awesome-calendar:1.0.4'    // API 26
 
 # ORIGINAL
 
-# CalendarDateRangePicker
+# [CalendarDateRangePicker](https://github.com/ArchitShah248/CalendarDateRangePicker)
 [ ![Download](https://api.bintray.com/packages/architshah248/EnticeArc/awesome-calendar/images/download.svg) ](https://bintray.com/architshah248/EnticeArc/awesome-calendar/_latestVersion)
  [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CalendarDateRangePicker-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6929)
  [![Xamarin](https://img.shields.io/badge/Xamarin-CalendarDateRangePicker-ff69b4.svg?style=flat)](https://github.com/kibotu/Xamarin.Awesome.Calendar)
